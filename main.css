@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(IMAGES/belonging.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+}
+
+#line {
+  width: 50%;
+  border-bottom: 2px solid #fff;
+  margin: 10px auto;
+}
+#content2 {
+}
