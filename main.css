@@ -36,4 +36,141 @@ main2 {
   width: 50%;
   border-bottom: 2px solid #fff;
   margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+main3 {
+  margin: 0;
+  padding: 0;
+  background-image: url(IMAGES/community\ gatherings.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+}
+
+#line {
+  width: 50%;
+  border-bottom: 2px solid #fff;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+main4 {
+  margin: 0;
+  padding: 0;
+  background-image: url(IMAGES/family\ and\ friends.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+}
+
+#line {
+  width: 50%;
+  border-bottom: 2px solid #fff;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+main5 {
+  margin: 0;
+  padding: 0;
+  background-image: url(IMAGES/rhythmic\ beats.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #000000;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+}
+
+#line {
+  width: 50%;
+  border-bottom: 2px solid #000000;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+main6 {
+  margin: 0;
+  padding: 0;
+  background-image: url(IMAGES/unity.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#content img {
+  max-width: 100%;
+  height: auto;
+}
+
+#line {
+  width: 50%;
+  border-bottom: 2px solid #ffffff;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
 }
