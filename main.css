@@ -1,7 +1,19 @@
-body {
+main {
   margin: 0;
   padding: 0;
   background-image: url(IMAGES/belonging.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+main2 {
+  margin: 0;
+  padding: 0;
+  background-image: url(IMAGES/bonfire.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -24,6 +36,4 @@ body {
   width: 50%;
   border-bottom: 2px solid #fff;
   margin: 10px auto;
-}
-#content2 {
 }
